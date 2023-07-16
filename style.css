@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  h1 {
+    text-align: center;
+    margin-top: 30px;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 10;
+    margin: 10;
+  }
+  
+  li {
+    padding: 10px;
+    background-color: hwb(295 76% 19%);
+    margin-bottom: 5px;
+  }
+  
+  .category {
+    background-color: hsl(0, 0%, 80%);
+    font-weight: bold;
+  }
+  
+  .item {
+    margin-left: 20px;
+  }
+  
